@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when referring to this work."
+title: "Accelerated Blahut-Arimoto Capacity Computation for Discrete Memoryless Channels"
+type: software
+authors:
+  - family-names: "Al-Rashayda"
+    given-names: "Amir Rasmi"
+    affiliation: "Birzeit University"
+abstract: "Python implementations and research materials for numerical capacity computation in discrete memoryless channels. See the README for differences between the supplied code and the paper."
